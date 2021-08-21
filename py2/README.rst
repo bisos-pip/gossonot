@@ -34,11 +34,11 @@ Installation
 
 ::
 
-    sudo pip install bisos.gossonot
+   sudo pip install bisos.gossonot
 
 Usage
 =====
 
 ::
 
-    /usr/local/bin/uxpProcessAgentOutcomes.py
+   /usr/local/bin/uxpProcessAgentOutcomes.py
