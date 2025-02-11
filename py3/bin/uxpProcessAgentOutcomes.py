@@ -74,7 +74,7 @@ import collections
 from unisos import ucf
 from unisos import icm
 
-from blee.icmPlayer import bleep
+from bisos.csPlayer import bleep
 
 from unisos.common import icmsPkgLib
 from bisos.gossonot import gossonotPkgThis
@@ -322,7 +322,7 @@ class examples(icm.Cmnd):
         
         icm.G_commonBriefExamples()    
 
-        bleep.examples_icmBasic()
+        bleep.examples_csBasic()
 
         
 ####+BEGIN: bx:icm:python:cmnd:subSection :title "Dev And Testing"
